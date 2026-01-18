@@ -8,11 +8,11 @@ I enjoy gaming, designing, and going on walks with my dog
 
 Technical Skills
 
-Adobe Photoshop
-Adobe Illustration
-Adobe InDesign
-Adobe Premiere Pro
-Other
+- Adobe Photoshop
+- Adobe Illustration
+- Adobe InDesign
+- Adobe Premiere Pro
+- Other
 
 <!--
 **Godzillacorgi/Godzillacorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
