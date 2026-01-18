@@ -4,17 +4,18 @@ I am a transfer student of Arizona State University whose majoring in Graphic In
 
 This is my first time learning about coding and my only experience to coding was completely the tutorial and trial lessons from Boot.dev; it's a little bit confusing but interesting
 
-I enjoy gaming, designing, and going on walks with my dog
+I enjoy gaming, designing, cooking and going on walks with my dog
 
 Technical Skills
 
-- Adobe Photoshop
+<img src="PS.png" alt="Adobe Photoshop" width="30" height="30" align="center"> Adobe Photoshop
 
-<img src="AIEdit.png" alt="Adobe Illustrator" width="50" height="50" align="center"> Adobe Illustrator
+<img src="AIEdit.png" alt="Adobe Illustrator" width="30" height="30" align="center"> Adobe Illustrator
   
-- Adobe InDesign
-- Adobe Premiere Pro
-- Other
+<img src="ID.png" alt="Adobe InDesign" width="30" height="30" align="center"> Adobe InDesign
+
+<img src="PR.png" alt="Adobe Premiere Pro" width="30" height="30" align="center"> Adobe Premiere Pro
+
 
 <!--
 **Godzillacorgi/Godzillacorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
