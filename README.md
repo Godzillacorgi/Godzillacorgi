@@ -9,7 +9,7 @@ I enjoy gaming, designing, and going on walks with my dog
 Technical Skills
 
 - Adobe Photoshop
-- ![Adobe Illustrator](AIEdit.png) <img src="AIEdit.png" alt="Adobe Illustrator" width="400" height="300"> Adobe Illustrator
+- <img src="AIEdit.png" alt="Adobe Illustrator" width="150" height="100"> Adobe Illustrator
 - Adobe InDesign
 - Adobe Premiere Pro
 - Other
