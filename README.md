@@ -1,6 +1,6 @@
 # Hi, I'm Jackol Lai
 
-I am a transfer student of Arizona State University whose majoring in Graphic Information Technology; hopefully I will be graduating this year of 2026. Before returning to college to get a Bacholars in GDT, I obtained an Associates in Surgical Technology in the 2010s unforunately my prospects in the field wasn't getting me in the door and life got really rough. This leaad to me returning to college to broaden my profolio and major into something that I always wanted.
+I am a transfer student of Arizona State University whose majoring in Graphic Information Technology; hopefully I will be graduating this year of 2026. Before returning to college to get a Bacholars in GDT, I obtained an Associates in Surgical Technology in the 2010s unforunately my prospects in the field wasn't getting me in the door and life got really rough. This leaad to me returning to college to broaden my portfolio and major into something that I always wanted.
 
 This is my first time learning about coding and my only experience to coding was completely the tutorial and trial lessons from Boot.dev; it's a little bit confusing but interesting
 
