@@ -11,6 +11,7 @@ Technical Skills
 - Adobe Photoshop
 - <p align="left"> 
     <img src="AIEdit.png" alt="Adobe Illustrator" width="50" height="50"> Adobe Illustrator
+  </p>  
 - Adobe InDesign
 - Adobe Premiere Pro
 - Other
