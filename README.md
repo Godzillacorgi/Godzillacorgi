@@ -9,7 +9,7 @@ I enjoy gaming, designing, and going on walks with my dog
 Technical Skills
 
 - Adobe Photoshop
-- Adobe Illustration
+- 	![Adobe Illustrator](AI.png) Adobe Illustrator
 - Adobe InDesign
 - Adobe Premiere Pro
 - Other
